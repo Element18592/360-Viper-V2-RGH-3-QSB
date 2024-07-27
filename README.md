@@ -1,4 +1,4 @@
-# Xbox 360 - Viper V2 RGH 3 Adapter
+# Viper V2 RGH 3 Adapter
 
 <img src="/Images/Install_Guide.png">
 
